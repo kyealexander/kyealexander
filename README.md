@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **All things Web Development, Python and Ethical Hacking.**  
   
-- 👨‍💻 All of my projects are available at [https://kyealex.com](https://kyealex.com)  
+- 👨‍💻 All of my projects will 'eventually' be available at [https://kyealex.com](https://kyealex.com)  
   
 - 📫 How to reach me **kye@kyealex.com**  
   
