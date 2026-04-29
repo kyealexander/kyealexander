@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Kye</h1>
 
-<!--
-**kyealexander/kyealexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I’m a <b>Cyber Security student at Griffith University</b> <br>
+  and a former <b>Electronic Warfare Operator</b> in the Royal Australian Navy.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">  
+Focused on <b>offensive cyber operations</b>, <b>SIGINT</b>, and <b>OSINT</b><br>  
+with an interest in <b>aerospace and defence</b>.  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🌐 <a href="https://www.kyemurphy.com" target="_blank">kyemurphy.com</a> • 
+  📧 <a href="mailto:kye@kyemurphy.com">kye@kyemurphy.com</a>
+</p>
